@@ -4,3 +4,11 @@ body {
     font-family: roboto, sans-serif;
     margin: 0px;
 }
+
+.hero {
+    background-color: #1f2937;
+}
+
+button {
+    background-color: #3882f6;
+}
