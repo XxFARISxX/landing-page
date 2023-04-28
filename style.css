@@ -33,6 +33,10 @@ a {
     padding-left: 20px;
 }
 
+.hero-text {
+    display: flex;
+}
+
 .big-hero {
     font-size: 48px;
     font-weight: bolder;
