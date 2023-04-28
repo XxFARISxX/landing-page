@@ -23,6 +23,7 @@ body {
 ul {
     list-style-type: none;
     font-size: 18px;
+    font-weight: normal;
     padding: 0px;
     margin: 0px;
     display: flex;
@@ -51,6 +52,7 @@ a {
 
 .little-hero {
     font-size: 18px;
+    font-weight: normal;
     color: #e5e7eb;
 }
 
