@@ -9,6 +9,7 @@ body {
 
 .hero {
     background-color: #1f2937;
+    padding: 0px 150px;
 }
 
 .header {
@@ -36,6 +37,7 @@ a {
 .hero-text {
     display: flex;
     justify-content: space-between;
+    padding: 70px 0px;
 }
 
 .big-hero {
