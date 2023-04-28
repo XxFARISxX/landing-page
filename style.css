@@ -58,4 +58,7 @@ button {
 
 .img {
     color: #e5e7eb;
+    width: 400px;
+    height: 200px;
+    display: flex;
 }
