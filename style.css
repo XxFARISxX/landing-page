@@ -58,6 +58,7 @@ button {
 
 .img {
     color: #e5e7eb;
+    background-color: darkgray;
     width: 400px;
     height: 200px;
     display: flex;
