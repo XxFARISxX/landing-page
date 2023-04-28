@@ -61,6 +61,8 @@ a {
 button {
     background-color: #3882f6;
     color: #f9faf8;
+    border: 0px;
+    padding: 5px 20px;
 }
 
 .img {
