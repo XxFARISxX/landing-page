@@ -134,3 +134,30 @@ img {
     font-style: normal;
     color: black;
 }
+
+.white-box {
+    display: flex;
+    padding: 100px 150px;
+}
+
+.blue-box {
+    background-color: #3882f6;
+    display: flex;
+    padding: 50px 100px;
+    flex: 1;
+    justify-content: space-between;
+    border-radius: 6px;
+}
+
+p {
+    margin: 0px;
+    color: #f9faf8;
+}
+
+.call-to-action {
+    font-weight: bold;
+}
+
+.blue-box button {
+    border: 2px solid #f9faf8;
+}
